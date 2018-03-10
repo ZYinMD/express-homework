@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder-homework",
+  "version": "1.0.0",
+  "description": "a homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZYinMD/express-homework.git"
+  },
+  "author": "Z Yin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZYinMD/express-homework/issues"
+  },
+  "homepage": "https://github.com/ZYinMD/express-homework#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
